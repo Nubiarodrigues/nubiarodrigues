@@ -1,7 +1,7 @@
 ## Olá, eu sou a Núbia! Bem-vindos ao meu GitHub! ❤
 
 ### Sobre mim 😊
-Sou estudante na área de tecnologia, focada no desenvolvimento de software, com uma paixão intensa por tecnologia e inovação. Amo aprender novas linguagens de programação e frameworks, e estou constantemente em busca de novos desafios para expandir meus conhecimentos e habilidades.
+Sou estudante na área de tecnologia, focada no desenvolvimento de software, com uma paixão por tecnologia e inovação. Amo aprender novas linguagens de programação e frameworks, e estou constantemente em busca de novos desafios para expandir meus conhecimentos e habilidades.
 
 ## Estatísticas do GitHub
 
