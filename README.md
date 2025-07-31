@@ -24,13 +24,3 @@ Meu nome é Núbia Maria, tenho 23 anos e sou natural da Paraíba. Concluí o cu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" height="40" width="40">
 </div>
-
-
-### 🤖 Estatísticas
-
-<div align="center">
-  <a href="https://github.com/Nubiarodrigues">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nubiarodrigues&show_icons=true&theme=tokyonight&&include_all_commits=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nubiarodrigues&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
-  </a>
-</div>
